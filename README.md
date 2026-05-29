@@ -58,27 +58,49 @@ pt=sns.boxplot(ax=ax1,x='Pclass',y='Age',hue='Gender',data=df)
 
 
 <img width="1310" height="504" alt="image" src="https://github.com/user-attachments/assets/085f367a-b228-4a2a-80c2-bfdbf00f168e" />
+
 <img width="1209" height="33" alt="image" src="https://github.com/user-attachments/assets/13d49236-8b81-417f-af01-3264fe038840" />
+
 <img width="1351" height="542" alt="image" src="https://github.com/user-attachments/assets/71aa3195-81b0-420b-922b-caa2d237b1f8" />
+
 <img width="1115" height="829" alt="image" src="https://github.com/user-attachments/assets/3c89c6a5-a244-46f3-94f5-fff85d97ec31" />
+
 <img width="1225" height="87" alt="image" src="https://github.com/user-attachments/assets/2a3b39e7-ebc6-4182-8dc4-80f6af735559" />
+
 <img width="1209" height="43" alt="image" src="https://github.com/user-attachments/assets/d4d57403-5476-4eeb-8e0c-eff9609b2b82" />
+
 <img width="1326" height="515" alt="image" src="https://github.com/user-attachments/assets/881f585d-7714-43c4-a295-6b2a9cdcd2c7" />
+
 <img width="1108" height="588" alt="image" src="https://github.com/user-attachments/assets/42dafb87-590d-45a7-a363-bb2f2b3768f8" />
+
 <img width="1110" height="572" alt="image" src="https://github.com/user-attachments/assets/017c3e3e-e15b-48c6-8310-f2cf63db16e7" />
+
 <img width="1131" height="643" alt="image" src="https://github.com/user-attachments/assets/f1058ab7-4f5c-49e8-970e-22007d89ce8b" />
+
 <img width="1132" height="637" alt="image" src="https://github.com/user-attachments/assets/d343f3d1-74ce-4401-827e-af867e1c3a00" />
+
 <img width="1264" height="549" alt="image" src="https://github.com/user-attachments/assets/7984f513-f40e-409e-b1d8-e0d6b9da44aa" />
+
 <img width="1275" height="594" alt="image" src="https://github.com/user-attachments/assets/9d43f10b-1709-42ef-a22e-29ed78855ad6" />
+
 <img width="962" height="545" alt="image" src="https://github.com/user-attachments/assets/df308e1f-d277-4415-8c7d-f4153833ec9a" />
+
 <img width="1267" height="552" alt="image" src="https://github.com/user-attachments/assets/fb3c2e79-1439-4206-afb3-cceeac1bf1d4" />
+
 <img width="1256" height="763" alt="image" src="https://github.com/user-attachments/assets/1a47f201-fcf9-428a-9348-c3fddb6be8da" />
+
 <img width="1279" height="762" alt="image" src="https://github.com/user-attachments/assets/aeff2fe5-98ba-4310-895d-09fea9ed3e8a" />
+
 <img width="1030" height="759" alt="image" src="https://github.com/user-attachments/assets/b945ff09-98e8-414d-8d38-c9c27c7d2cc8" />
+
 <img width="1298" height="644" alt="image" src="https://github.com/user-attachments/assets/422fc392-60e7-482b-841a-9867cddc15cc" />
+
 <img width="901" height="927" alt="image" src="https://github.com/user-attachments/assets/b40a83c1-e17b-4ff5-8570-464504ac143c" />
+
 <img width="1066" height="632" alt="image" src="https://github.com/user-attachments/assets/d4159fc8-1eca-4b5c-806a-85b2b90bc1cc" />
+
 <img width="1353" height="640" alt="image" src="https://github.com/user-attachments/assets/676bf1a3-ad80-467b-ab22-d5c78091a4e0" />
+
 <img width="1159" height="558" alt="image" src="https://github.com/user-attachments/assets/28c7a2ea-cd25-4872-8afb-f7a98b943f9f" />
 
 
